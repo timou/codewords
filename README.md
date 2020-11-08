@@ -2,7 +2,7 @@
 Handy, sometimes hilarious, sometimes inappropriate, codeword generator.
 For when human-friendly identifiers are desired.
 
-This library generates codewords of the form <adjective>-<noun>. Words
+This library generates codewords of the form \<adjective\>-\<noun\>. Words
 are randomly selected from the Princeton WordNet database. The library
 is go-getable and has no dependencies. The codewords are not guaranteed
 to be unique.
